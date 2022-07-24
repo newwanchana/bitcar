@@ -1,0 +1,20 @@
+{
+    "name": "pxt-bitcar",
+    "version": "0.0.1",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "chmakered-grove": "github:CH-MAKER-Ed/pxt-Grove-One#v0.0.2",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.10"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "installedVersion": "workspace:bda52e04-fd68-4897-6612-a91523a7b7c4"
+}
